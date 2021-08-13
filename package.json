@@ -1,0 +1,27 @@
+{
+  "name": "superfluid-hackfs",
+  "version": "1.0.0",
+  "description": "Dollar Cost Averaging on Superfluid Finance",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr4yha7/superfluid-hackfs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr4yha7/superfluid-hackfs/issues"
+  },
+  "homepage": "https://github.com/gr4yha7/superfluid-hackfs#readme",
+  "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.6",
+    "@superfluid-finance/js-sdk": "^0.5.2"
+  }
+}
